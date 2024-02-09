@@ -13,7 +13,7 @@ const ResumeNav = () => {
     </button>
     <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
       <div class="navbar-nav">
-        <Link class="nav-link active" aria-current="page" to="/signup">Signup</Link>
+        <Link class="nav-link active" aria-current="page" to="/">Signup</Link>
         <Link class="nav-link" to="/signin">Signin</Link>
         <Link class="nav-link" to="/add">Add Resume</Link>
         <Link class="nav-link" to="/view">View Resume</Link>
